@@ -1,0 +1,111 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 345.26143497757835,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 0
+          },
+          "nodeIndex": "smartsheet - Region",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 284,
+            "y": 0
+          },
+          "nodeIndex": "smartsheet - Florida",
+          "nodeLineageTag": "ecfe32af-27e6-47db-a8c4-8b029f90e78c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 50
+          },
+          "nodeIndex": "Perc",
+          "nodeLineageTag": "240ed776-9909-45ee-9a5f-ae2e6afea75a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 62
+          },
+          "nodeIndex": "Dol",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 62
+          },
+          "nodeIndex": "Tot",
+          "nodeLineageTag": "b5e3bbaf-56c0-4b8d-a8cd-469711f83804",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 0
+          },
+          "nodeIndex": "Exec Sum",
+          "nodeLineageTag": "739b17be-5db6-459f-8328-c87589b242fc",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1443.1,
+            "y": 0
+          },
+          "nodeIndex": "Golf",
+          "nodeLineageTag": "7f450ba1-2e21-4fcc-8574-615de125b316",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 99.111111111111114,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
